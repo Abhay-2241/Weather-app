@@ -21,7 +21,7 @@ https://weatherappwithwapi.netlify.app/
 To run the Weather App locally on your machine, follow these steps:
 
 Clone the repository to your local machine:  
-git clone https://github.com/sumit334/weather-app.git  
+ 
 cd weather-app  
 Install the dependencies:  
 npm install  
